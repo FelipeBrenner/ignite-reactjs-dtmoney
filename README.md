@@ -20,9 +20,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias, hooks e bibliotecas:
 - useState (hook que armazena dados que podem variar com o tempo, qualquer informação ou dado deve ser armazenado no useState, só assim será possível renderizar a informação para o frontend web ou mobile)
 - useEfect (hook utilizado para controlar a execução de uma função a partir da alteração de um determinado parâmetro)
 - Styled Components (biblioteca que permite escrever códigos CSS dentro do Javascript)
-- Mirage JS (biblioteca de simulação de API que permite construir, testar e compartilhar um aplicativo JavaScript funcional completo sem ter que depender de nenhum serviço de back-end)
-- Axios (biblioteca usada no lugar de fetch(), utiliza uma baseURL para não precisarmos digitar em cada requisição o endereço do servidor, informando apenas a rota e seus parâmetros)
+- Mirage JS (biblioteca de simulação de API que permite construir, testar e compartilhar um aplicativo JavaScript funcional completo antes de ser desenvolvido o back-end)
+- Axios (biblioteca usada no lugar de fetch(), que passa a não precisarmos repetir a digitação do endereço do servidor em cada requisição, informando apenas a rota e seus parâmetros, e também passamos a poder interceptar requisições e respostas pra nossa API antes de chegar no back-end para realizar alguma regra, por exemplo enviar algum token de autenticação)
 - React Modal (biblioteca que renderiza o conteúdo de seu filho sobre um componente backdrop e fornece muitos recursos relacionados a interação destes dois)
+- Polished
 
 ## 💻 Projeto
 
