@@ -1,27 +1,22 @@
 <h1 align="center">
-  <img alt="dtmoney" title="dtmoney" src="./assets/logo.svg" width="220px" />
+  <img alt="dtmoney" title="dtmoney" src="./src/assets/logo.svg" width="220px" />
 </h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
 
-<p align="center">
-  <img alt="dtmoney" src="" width="100%">
-</p>
-
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido com as seguintes tecnologias, hooks e bibliotecas:
 
 - ReactJS
 - Next.js
 - TypeScript
-
 - useState (hook que armazena dados que podem variar com o tempo, qualquer informação ou dado deve ser armazenado no useState, só assim será possível renderizar a informação para o frontend web ou mobile)
 - useEfect (hook utilizado para controlar a execução de uma função a partir da alteração de um determinado parâmetro)
 - Styled Components (biblioteca que permite escrever códigos CSS dentro do Javascript)
