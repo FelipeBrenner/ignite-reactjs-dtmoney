@@ -7,6 +7,8 @@
   <img alt="cadastrar-transacao" src=".github/cadastrar-transacao.png" width="100%">
 </p>
 
+<br/>
+
 ## 🚀 Tecnologias, Hooks e Bibliotecas
 
 Esse projeto está sendo desenvolvido com as seguintes tecnologias:
