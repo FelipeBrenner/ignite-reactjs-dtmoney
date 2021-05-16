@@ -11,7 +11,7 @@
 
 ## 🚀 Tecnologias, Hooks e Bibliotecas
 
-Esse projeto está sendo desenvolvido com as seguintes tecnologias:
+Projeto desenvolvido com as seguintes tecnologias:
 
 - ReactJS
 - TypeScript
